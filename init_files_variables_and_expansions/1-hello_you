@@ -1,2 +1,2 @@
 #!/bin/bash
-./greet_user.sh
+'hello $(whoami)'
